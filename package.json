@@ -1,0 +1,26 @@
+{
+  "name": "hello-slack-workshop",
+  "version": "0.0.1",
+  "description": "Slack app workshop with Bolt",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^1.7.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-slack-workshop"
+  },
+  "author": "Tomomi Imura",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "slack",
+    "slack bot",
+    "bolt"
+  ]
+}
