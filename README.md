@@ -8,7 +8,7 @@
 
 [![slides](https://cdn.glitch.com/50da2454-06d1-4d5e-92ba-92e1822bed6d%2FScreen%20Shot%202020-05-29%20at%2012.54.05%20PM.png?v=1590782077518)](https://docs.google.com/presentation/d/e/2PACX-1vTrObtV4qJ60pEmIIcSKQkR6Fuyas4gfMTkuXZstXqFR_sWKPj1y7y0YEjfOJuLInhEjFbdUcVlrXFV/pub?start=false&loop=false&delayms=3000)
 
-[👀 View the slide deck]((https://docs.google.com/presentation/d/e/2PACX-1vTrObtV4qJ60pEmIIcSKQkR6Fuyas4gfMTkuXZstXqFR_sWKPj1y7y0YEjfOJuLInhEjFbdUcVlrXFV/pub?start=false&loop=false&delayms=3000))
+[👀 View the slide deck](https://docs.google.com/presentation/d/e/2PACX-1vTrObtV4qJ60pEmIIcSKQkR6Fuyas4gfMTkuXZstXqFR_sWKPj1y7y0YEjfOJuLInhEjFbdUcVlrXFV/pub?start=false&loop=false&delayms=3000)
 
 
 ## ⚙️ Configuring your Slack app with App Management
